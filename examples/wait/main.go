@@ -9,7 +9,7 @@ import (
 	"log"
 	"time"
 
-	"github.com/example/token-bucket-rate-limiter/limiter"
+	"github.com/michael-emmanuel/go-token-bucket-rate-limiter/limiter"
 )
 
 func main() {
